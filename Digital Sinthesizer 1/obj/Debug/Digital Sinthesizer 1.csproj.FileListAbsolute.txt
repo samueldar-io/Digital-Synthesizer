@@ -1,0 +1,11 @@
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\bin\Debug\Digital Sinthesizer 1.exe.config
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\bin\Debug\Digital Sinthesizer 1.exe
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\bin\Debug\Digital Sinthesizer 1.pdb
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.csproj.AssemblyReference.cache
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital_Sinthesizer_1.Form1.resources
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital_Sinthesizer_1.Properties.Resources.resources
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.csproj.GenerateResource.cache
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.exe
+C:\Users\Samuel\source\repos\Digital Sinthesizer 1\Digital Sinthesizer 1\obj\Debug\Digital Sinthesizer 1.pdb
