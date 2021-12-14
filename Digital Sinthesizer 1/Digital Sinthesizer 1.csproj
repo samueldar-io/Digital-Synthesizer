@@ -52,6 +52,9 @@
     <Compile Include="Digital Synthesizer.Designer.cs">
       <DependentUpon>Digital Synthesizer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Oscillator.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Digital Synthesizer.resx">

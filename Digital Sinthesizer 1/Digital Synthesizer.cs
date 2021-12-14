@@ -71,8 +71,12 @@ namespace Digital_Sinthesizer_1
                     new SoundPlayer(memoryStream).Play();
                 }
             }
-            
-            
         }
     }
+
+    public enum WaveForm
+    {
+        Sine, Square, Saw, Triangle, Noise
+    }
+
 }

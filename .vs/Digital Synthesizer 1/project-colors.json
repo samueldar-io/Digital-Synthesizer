@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02325668-bc0e-4a49-81a0-124ab69c77a8": {
+      "ProjectGuid": "02325668-bc0e-4a49-81a0-124ab69c77a8",
+      "DisplayName": "Digital Sinthesizer 1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

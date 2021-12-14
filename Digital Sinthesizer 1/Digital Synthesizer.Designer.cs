@@ -28,21 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.oscillator1 = new Digital_Sinthesizer_1.Oscillator();
             this.SuspendLayout();
+            // 
+            // oscillator1
+            // 
+            this.oscillator1.Location = new System.Drawing.Point(12, 12);
+            this.oscillator1.Name = "oscillator1";
+            this.oscillator1.Size = new System.Drawing.Size(200, 100);
+            this.oscillator1.TabIndex = 0;
+            this.oscillator1.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(224, 271);
+            this.Controls.Add(this.oscillator1);
             this.Name = "Form1";
-            this.Text = "Digital Synthesizer";
+            this.Text = " ";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private Oscillator oscillator1;
     }
 }
 
